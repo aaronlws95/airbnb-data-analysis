@@ -2,7 +2,7 @@
 
 Homework as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 
-You can observe a communication of the results in the [related blog post](https://aaronlws.medium.com/a-few-data-based-tips-for-being-successful-on-airbnb-4d9fa23f6b13).
+You can read the [related blog post](https://aaronlws.medium.com/a-few-data-based-tips-for-being-successful-on-airbnb-4d9fa23f6b13) for a summary of the results.
 
 In this repo, we dive into the [Airbnb Seattle dataset](https://www.kaggle.com/airbnb/seattle) from Kaggle and try to find out how to have a successful listing on Airbnb.
 
