@@ -22,7 +22,7 @@ In this repo we have 3 notebooks. Further information is provided inside the not
     * In this notebook, we take an initial look at the data we're dealing with and do some analysis on the listings to help answer several questions. Broadly speaking we are looking to answer the question: **How do I become successful on Airbnb?**
 
 2. `prediction_model`
-    * In this notebook, we will try to predict the aggregate review score using the given listings data with just linear regression
+    * In this notebook, we will try to predict the aggregate review score using the given listings data with just linear regression.
 
 3. `semantic-analysis`
     * In this notebook, we use an off-the-shelf sentiment analysis model to estimate the sentiments from the reviews. There is no ultimate goal for this notebook, it is just for fun.
